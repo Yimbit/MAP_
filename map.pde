@@ -1,3 +1,7 @@
+//note: stuff gets laggy if you go too far out (about a few hundred squares)
+//currently working on fixing that before adding enemies and traps
+
+
 import fisica.*;
 FWorld world;
 FCompound compound;
